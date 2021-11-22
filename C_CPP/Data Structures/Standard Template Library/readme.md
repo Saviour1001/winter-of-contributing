@@ -8,12 +8,14 @@ In this project, we'll talk about Deque (Double Ended Queue), a topic under The 
 <hr>
 
 ## Standard Template Library (STL) contains:
-- array
-- [vector](Vector)
-- maps
-- stack
-- queue
-- [deque](Deque)
-- set
-- map
-- multimap
+
+- [Array](Array)
+- [Vector](Vector)
+- [Stack](Stack)
+- Queue
+- [Deque](Deque)
+- Set
+- [Map](./Maps)
+- Multimap
+- [Lists](STL-LISTS.md)
+- [Forward List](Forward_List.md)
